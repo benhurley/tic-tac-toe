@@ -6,7 +6,7 @@ Simple java program to play tic tac toe. Can play against another human player, 
 
 To get started, grab the https link above and clone this repo to your local machine
 ```
-git clone https://github.com/thebenhurley/tic-tac-toe.git
+git clone https://github.com/benhurley/tic-tac-toe.git
 ```
 
 Next, run the following command with the makefile to build the executable JAR
